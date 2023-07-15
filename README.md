@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://media-exp1.licdn.com/dms/image/C5103AQG8YCsliYs-nA/profile-displayphoto-shrink_800_800/0/1561690565587?e=1619049600&v=beta&t=X74Ctu6DvO7IEzY-O5SO7-CZ7SVANz066d1AhGOrpc0" alt="henry0905" /> </p>
 
-- 📫 How to reach me **lamminhtriet1997@gmail.com**
+- 📫 How to reach me **trietlam.ai@gmail.com**
 
 - ⚡ Fun fact **I love SQL**
 
